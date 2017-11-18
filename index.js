@@ -7,3 +7,4 @@ function printBadges(names){
 }
 
 printBadges(names);
+

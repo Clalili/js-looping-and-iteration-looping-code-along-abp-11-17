@@ -2,7 +2,7 @@
 const names = ['Ada', 'Brendan', 'Ali']);
 
 function printBadges(names){
-  for(i=0; i < printBadges; i++ ){
+  for(let i=0; i < printBadges; i++ ){
     console.log(`Welcome ${names[0]! You are employee ${i+1}}`);
   }
   return printBadges;

@@ -8,3 +8,6 @@ function printBadges(names){
 
 printBadges(names);
 
+function tailsNeverFails(){
+  
+};

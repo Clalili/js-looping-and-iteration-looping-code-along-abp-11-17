@@ -1,5 +1,5 @@
 // Code your solutions in this file
-let name = ['Ada', 'Brendan', 'Ali']);
+const names = ['Ada', 'Brendan', 'Ali']);
 
 function printBadges(name){
   for(i=0,i<printBadges,i++ ){
@@ -7,3 +7,5 @@ function printBadges(name){
   }
   return printBadges;
 }
+
+printBadges(names);
